@@ -1,6 +1,6 @@
 # Hi, I'm Faizan J 👋
 
-### Computer Science Student • AI & Software Developer • Solutions Builder
+### Web Development Intern At Vault of Codes • AI & Software Developer • Solutions Builder
 
 I build practical software and production-ready workflows with a focus on **AI Agents, Backend Integrations, DevOps/Automation, and Full-Stack Web Development**.
 
